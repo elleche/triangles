@@ -1,0 +1,19 @@
+﻿body {
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+#container {
+    margin: auto;
+    width: 50%;
+    /*height: 50%;*/
+}
+
+canvas {
+    width: 50%;
+    height: 100%;
+    margin: auto;
+}
